@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: reactnative-app
+  description: Not AI generated reactnative-app
+  annotations:
+    github.com/project-slug: KeertiPusarlaa/reactnative-app
+spec:
+  type: service
+  owner: default
+  lifecycle: production
